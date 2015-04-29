@@ -1,0 +1,382 @@
+Alchemy Lab
+Earnings gp, Goods, or Magic +10
+Benefit counts as an alchemist's lab
+Create 8 Goods, 1 Influence, 5 Labor, 1 Magic (390 gp); 
+Time 16 days;
+
+Altar
+Earnings Influence +3
+Benefit counts as a permanent fixture dedicated to your deity for the purpose of consecrate and similar spells
+Create 2 Goods, 1 Influence, 2 Labor, 1 Magic (210 gp); 
+Time 4 days;
+
+Animal Pen
+Earnings gp, Goods, or Labor +8
+Create 6 Goods, 1 Influence, 5 Labor (250 gp);
+Time 16 days;
+Upgrades To Habitat
+
+Armory
+Benefit provides for 1 Bunks or Guard Post, hastens donning armor
+Create 9 Goods, 3 Influence, 6 Labor (390 gp);
+Time 16 days;
+
+Artisan's Workshop
+Earnings gp, Goods, or Influence +10
+Benefit counts as masterwork artisan's tools for one Craft skill
+Create 9 Goods, 9 Labor (360 gp); 
+Time 20 days;
+
+Auditorium
+Earnings gp or Influence +15
+Benefit +2 bonus on Perform checks
+Create 19 Goods, 1 Influence, 25 Labor (910 gp); Time 40 days; Size 40-100 squares
+Upgrades From Ballroom
+
+Ballroom
+Earnings gp or Influence +10
+Benefit +2 bonus on Perform checks
+Create 19 Goods, 19 Labor (760 gp); Time 40 days; Size 40-60 squares
+Upgrades To Auditorium; Upgrades From Common Room
+
+Bar
+Earnings gp or Influence +10
+Benefit +1 bonus on Diplomacy checks to gather information
+Create 6 Goods, 1 Influence, 5 Labor (250 gp); Time 16 days; Size 10-20 squares
+
+Bath
+Earnings gp or Influence +3
+Benefit +2 bonus on Fortitude saves against disease
+Create 3 Goods, 1 Influence, 2 Labor (130 gp); Time 8 days; Size 3-6 squares
+Upgrades From Sauna
+
+Battle Ring
+Earnings gp or Influence +15
+Benefit contestant gains a +2 bonus on Intimidate and performance combat checks
+Create 18 Goods, 4 Influence, 16 Labor (800 gp); Time 40 days; Size 40-100 squares
+Upgrades To Sports Field
+
+Bedroom
+Earnings gp or Influence +3
+Create 8 Goods, 7 Labor (300 gp); Time 20 days; Size 4-8 squares
+
+Bell Tower
+Earnings capital +1 (of a type the building already generates)
+Create 11 Goods, 3 Influence, 7 Labor (450 gp); Time 28 days; Size 9-25 squares
+
+Blood Spa
+Benefit temporary age penalty reduction
+Create 10 Goods, 4 Influence, 7 Labor, 6 Magic (1,060 gp); Time 28 days; Size 4-8 squares
+Upgrades From Bath
+
+Book Repository
+Earnings gp or Influence +8
+Benefit +3 bonus on Knowledge checks of one type
+Create 8 Goods, 2 Influence, 7 Labor, 1 Magic (460 gp); Time 16 days; Size 4-12 squares
+Upgrades To Magical Repository
+
+Brewery
+Earnings gp or Influence +10
+Create 9 Goods, 2 Influence, 7 Labor (380 gp); Time 24 days; Size 12-24 squares
+
+Bunks
+Earnings gp or Labor +8
+Create 7 Goods, 4 Influence, 7 Labor (400 gp); Time 24 days; Size 15-35 squares
+Upgrades To Lodging
+
+Burial Ground
+Earnings gp or Influence +4
+Benefit prevents or creates undead(200 gp extra)
+Create 4 Goods, 3 Influence, 4 Labor, 1 Magic (350 gp); Time 8 days; Size 20-30 squares
+Upgrades To Crypt
+
+Cell
+Benefit houses 1 to 4 prisoners
+Create 5 Goods, 4 Labor (180 gp); Time 16 days; Size 1-9 squares
+
+Ceremonial Room
+Earnings Capital +10
+Benefit +1 bonus on Bluff, Diplomacy, and Intimidate checks (see below)
+Create 16 Goods, 2 Influence, 15 Labor, 5 Magic (1,180 gp); Time 40 days; Size 40-100 squares
+Upgrades To Throne Room; Upgrades From Common Room
+
+Classroom
+Earnings capital +8
+Create 6 Goods, 1 Influence, 5 Labor (250 gp); Time 14 days; Size 5-20 squares
+
+Clockwork Shop
+Earnings gp, Goods, or Labor +10
+Benefit counts as masterwork artisan's tools for Craft (clockwork)
+Create 9 Goods, 9 Labor (360 gp); Time 20 days; Size 8-16 squares
+
+Common Room
+Earnings gp or Influence +7
+Create 7 Goods, 8 Labor (300 gp); Time 16 days; Size 10-30 squares
+
+Confessional
+Benefit +4 bonus on Stealth checks vs those on other side
+Create 2 Goods, 3 Labor (100 gp); Time 4 days; Size 2-4 squares
+
+Courtyard
+Earnings capital +5 (of a type the building already generates)
+Create 4 Goods, 5 Labor (180 gp); Time 24 days; Size 20-40 squares
+
+Crypt
+Earnings gp, Influence, or Magic +5
+Create 5 Goods, 3 Influence, 5 Labor, 2 Magic (490 gp); Time 16 days; Size 8-30 squares
+Upgrades From Burial Ground
+
+Defensive Wall
+Create 5 Goods, 2 Influence, 5 Labor (260 gp); Time 12 days; Size 20-40 squares
+
+Dock
+Earnings gp, Goods, Influence, or Labor +12
+Create 7 Goods, 2 Influence, 6 Labor (320 gp); Time 20 days; Size 10-30 squares
+
+Dojo
+Earnings gp, Influence, or Labor +8 
+Benefit counts as a training facility for training or retraining
+Create 7 Goods, 1 Influence, 7 Labor (310 gp); Time 20 days; Size 15-30 squares
+
+Drawbridge
+Create 8 Goods, 2 Influence, 5 Labor (320 gp); Time 6 days; Size 4-8 squares
+
+Escape Route
+Create 9 Goods, 9 Labor (360 gp); Time 16 days; Size 6-12 squares
+Upgrades From Secret Room
+
+Execution Yard
+Earnings Influence +10
+Benefit bonus on Intimidate checks
+Create 8 Goods, 2 Influence, 10 Labor (420 gp); Time 24 days; Size 20-40 squares
+Upgrades From Courtyard
+
+False Front
+Earnings gp or Goods +2
+Benefit bonus to Perception and Sense Motive DCs
+Create 4 Goods, 1 Influence, 4 Labor (190 gp); Time 12 days; Size 10-20 squares
+Upgrades To Storage and Storefront (see below)
+
+Farmland
+Earnings gp or Goods +10
+Create 15 Goods, 15 Labor (600 gp); Time 20 days; Size 60-100 squares
+
+Forge
+Earnings gp or Goods +10
+Benefit counts as masterwork artisan's tools for smithing skills
+Create 9 Goods, 1 Influence, 8 Labor (370 gp); Time 20 days; Size 8-16 squares
+
+Game Room
+Earnings gp +10 (see below)
+Create 8 Goods, 7 Labor (300 gp); Time 16 days; Size 10-20 squares
+
+Garden
+Earnings gp or Goods +8
+Create 5 Goods, 4 Labor (180 gp); Time 12 days; Size 10-20 squares
+Upgrades To Greenhouse
+
+Gatehouse
+Benefit defenders get +1 bonus on initiative and Perception checks
+Create 15 Goods, 3 Influence, 12 Labor (630 gp); Time 40 days; Size 8-12 squares
+Upgrades From Gauntlet, Guard Post
+
+Gauntlet
+Benefit defenders get improved cover
+Create 4 Goods, 4 Labor (160 gp); Time 10 days; Size 4-8 squares
+Upgrades To Gatehouse
+
+Greenhouse
+Earnings gp, Goods, or Influence +12
+Create 8 Goods, 7 Labor (300 gp); Time 16 days; Size 10-20 squares
+Upgrades From Garden
+
+Guard Post
+Earnings gp or Goods +4
+Benefit defenders get a +1 bonus on initiative and Perception checks
+Create 7 Goods, 2 Influence, 6 Labor (320 gp); Time 20 days; Size 6-10 squares
+Upgrades From Tollbooth; Upgrades To Gatehouse
+
+Habitat
+Earnings gp or Influence +12
+Create 18 Goods, 3 Influence, 17 Labor (790 gp); Time 40 days; Size 40-60 squares
+Upgrades From Animal Pen, Stall
+
+Hatchery
+Earnings gp or Goods +5
+Create 4 Goods, 1 Influence, 3 Labor (170 gp); Time 10 days; Size 2-6 squares
+
+Infirmary
+Earnings gp or Influence +8
+Benefit counts as a healer's kit (see below)
+Create 6 Goods, 1 Influence, 6 Labor, 1 Magic (370 gp); Time 16 days; Size 4-12 squares
+
+Kitchen
+Earnings gp or Goods +4
+Create 4 Goods, 4 Labor (160 gp); Time 12 days; Size 2-6 squares
+
+Labyrinth
+Earnings gp or Influence +5
+Create 15 Goods, 15 Labor (370 gp); Time 30 days; Size 40-100 squares
+
+Laundry
+Earnings gp or Goods +3
+Benefit +1 bonus on Fortitude saves against contracting disease
+Create 3 Goods, 3 Labor (120 gp); Time 8 days; Size 2-6 squares
+
+Lavatory
+Benefit +2 Bonus on Fortitude saves against contracting disease
+Create 3 Goods, 3 Labor (120 gp); Time 4 days; Size 1-4 squares
+Upgrades From Shack
+
+Leather Workshop
+Earnings gp or Goods +10
+Benefit counts as masterwork artisan's tools for leatherworking skills
+Create 7 Goods, 1 Influence, 7 Labor (310 gp); Time 16 days; Size 4-10 squares
+
+Lodging
+Earnings gp +12
+Create 10 Goods, 1 Influence, 10 Labor (430 gp); Time 30 days; Size 20-35 squares
+Upgrades From Bunks
+
+Magical Repository
+Earnings gp, Influence, or Magic +12
+Benefit +3 bonus on Knowledge (arcana), Spellcraft, and +4 on spell research and magic item crafting checks
+Create 9 Goods, 3 Influence, 8 Labor, 3 Magic (730 gp); Time 20 days; Size 4-12 squares
+Upgrades From Book Repository
+
+Mill Room
+Earnings gp or Goods +8
+Create 8 Goods, 7 Labor (300 gp); Time 20 days; Size 20-30 squares
+
+Nursery
+Earnings gp or Influence +6
+Create 6 Goods, 1 Influence, 5 Labor (250 gp); Time 14 days; Size 8-16 squares
+
+Observation Dome
+Earnings gp, Influence, or Magic +5
+Benefit +2 bonus on Knowledge (geography), Knowledge (nature), and Knowledge (planes) checks
+Create 8 Goods, 9 Labor, 1 Magic (440 gp); Time 20 days; Size 10-20 squares
+
+Office
+Create 3 Goods, 3 Labor (120 gp); Time 8 days; Size 2-5 squares
+Upgrades From Storage
+
+Pit
+Earnings gp or Labor +1
+Create 1 Goods, 1 Labor (40 gp); Time 2 days; Size 1-5 squares
+
+Printer
+Earnings gp, Goods, Influence, or Labor +8
+Benefit counts as masterwork artisan's tools for writing and printing skills
+Create 9 Goods, 2 Influence, 7 Labor (380 gp); Time 20 days; Size 5-16 squares
+Upgrades From Scriptorium
+
+Reliquary
+Earnings gp or Influence +5
+Benefit +1 bonus on Knowledge (religion) checks relating to its contents
+Create 4 Goods, 4 Labor, 1 Magic (260 gp); Time 12 days; Size 1-4 squares
+Upgrades To Vault
+
+Sanctum
+Benefit +1 bonus on one Will save
+Create 2 Goods, 1 Influence, 1 Labor, 1 Magic (190 gp); Time 6 days; Size 1-4 squares
+
+Sauna
+Earnings gp or Influence +3
+Benefit +1 bonus on disease and negative level recovery saves
+Create 3 Goods, 3 Labor (120 gp); Time 8 days; Size 2-5 squares
+Upgrades To Bath
+
+Scriptorium
+Earnings gp, Goods, Influence, Labor, or Magic +5
+Benefit counts as masterwork artisan's tools for writing skills
+Create 7 Goods, 2 Influence, 6 Labor (320 gp); Time 16 days; Size 5-16 squares
+Upgrades To Printer
+
+Scrying Room
+Earnings gp or Influence +2
+Benefit increases the DC of scrying effects by 1
+Create 6 Goods, 1 Influence, 5 Labor, 3 Magic (550 gp); Time 16 days; Size 4-16 squares
+
+Secret Room
+Create 5 Goods, 6 Labor (220 gp); Time 16 days; Size 6-10 squares
+Upgrades From Vault; Upgrades To Escape Route
+
+Sewer Access
+Create 2 Goods, 1 Influence, 2 Labor (110 gp); Time 4 days; Size 4-6 squares
+
+Sewing Room
+Earnings gp, Goods, or Influence +10
+Benefit counts as masterwork artisan's tools for one Craft skill
+Create 8 Goods, 7 Labor (300 gp); Time 16 days; Size 6-12 squares
+
+Shack
+Create 3 Goods, 2 Labor (100 gp); Time 3 days; Size 2-4 squares
+Upgrades To Lavatory, Storage
+
+Sitting Room
+Earnings Influence +4
+Benefit +1 bonus on Bluff, Diplomacy, Intimidate, Knowledge (local), and Perform checks
+Create 12 Goods, 12 Labor (480 gp); Time 24 days; Size 6-10 squares
+
+Sports Field
+Earnings gp or Influence +10
+Create 17 Goods, 3 Influence, 18 Labor (790 gp); Time 20 days; Size 40-100 squares
+Upgrades From Battle Ring
+
+Stall
+Earnings gp, Goods, or Labor +8
+Create 6 Goods, 1 Influence, 5 Labor (250 gp); Time 16 days; Size 6-16 squares
+Upgrades To Habitat
+
+Statue
+Earnings gp or Influence +1
+Create 1 Goods, 2 Labor (60 gp); Time 2 days; Size 1-9 squares
+
+Storage
+Earnings gp +2
+Create 3 Goods, 3 Labor (120 gp); Time 8 days; Size 4-8 squares
+Upgrades From False Front, Shack; Upgrades To Office, Vault
+
+Storefront
+Earnings capital +5 (of a type the building already generates)
+Create 5 Goods, 1 Influence, 3 Labor (190 gp); Time 12 days; Size 2-4 squares
+Upgrades From False Front
+
+Summoning Chamber
+Earnings Magic +3
+Benefit +3 bonus on Charisma, Diplomacy, Intimidate, and Knowledge (planes) checks
+Create 11 Goods, 4 Influence, 10 Labor, 5 Magic (1,040 gp); Time 28 days; Size 6-16 squares
+
+Throne Room
+Earnings Influence +15
+Benefit +1 bonus on Bluff, Diplomacy, and Intimidate, Knowledge (local), and Perform checks
+Create 25 Goods, 5 Influence, 25 Labor, 5 Magic (1,650 gp); Time 40 days; Size 40-80 squares
+Upgrades From Ceremonial Room, Common Room
+
+Tollbooth
+Earnings gp or Goods +4
+Create 2 Goods, 1 Influence, 2 Labor (110 gp); Time 6 days; Size 1-5 squares
+Upgrades To Guard Post
+
+Torture Chamber
+Benefit +3 bonus on Intimidate checks
+Create 7 Goods, 3 Influence, 5 Labor (330 gp); Time 20 days; Size 6-16 squares
+
+Trophy Room
+Earnings gp or Influence +5
+Create 6 Goods, 1 Influence, 5 Labor (250 gp); Time 16 days; Size 4-20 squares
+
+Vault
+Create 8 Goods, 7 Labor (300 gp); Time 16 days; Size 4-8 squares
+Upgrades From Reliquary, Storage; Upgrades To Secret Room
+
+War Room
+Benefit +2 bonus on mass combat and skill checks while scheming
+Create 8 Goods, 7 Labor (300 gp); Time 16 days; Size 4-12 squares
+
+Workstation
+Earnings gp, Goods, or Influence +8
+Benefit counts as masterwork artisan's tools for one Craft or Profession skill
+Create 8 Goods, 7 Labor (300 gp); Time 16 days; Size 8-16 squares
+

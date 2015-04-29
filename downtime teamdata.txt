@@ -1,0 +1,109 @@
+Acolyte
+Earnings gp, Influence, or Magic +4
+Create 2 Goods, 2 Influence, 2 Labor, 3 Magic (440 gp); Time 3 days; Size 1 person
+Upgrades To Priest, Sage
+
+Apprentice
+Earnings gp, Influence, or Magic +4
+Create 2 Goods, 2 Influence, 1 Labor, 4 Magic (520 gp); Time 3 days; Size 1 person
+Upgrades To Mage, Sage
+
+Archers
+Earnings gp, Influence, or Labor +6
+Create 4 Goods, 3 Influence, 7 Labor (310 gp); Time 4 days; Size 5 people
+Upgrades To Elite Archers; Upgrades From Soldiers
+
+Bureaucrats
+Earnings gp or Influence +4
+Create 2 Goods, 4 Influence, 2 Labor (200 gp); Time 2 days
+Upgrades From Scofflaws, Soldiers
+
+Cavalry
+Earnings gp, Influence, or Labor +7
+Create 8 Goods, 3 Influence, 8 Labor (410 gp); Time 6 days; Size 5 people
+Upgrades From Elite Soldiers, Soldiers; Upgrades To Cavalry Archers
+
+Cavalry Archers
+Earnings gp, Influence, or Labor +8
+Create 9 Goods, 3 Influence, 10 Labor (470 gp); Time 7 days; Size 5 people
+Upgrades From Cavalry, Elite Archers
+
+Craftspeople
+Earnings gp, Goods, or Labor +4
+Create 3 Goods, 2 Influence, 4 Labor (200 gp); Time 2 days; Size 3 people
+
+Cutpurses
+Earnings gp, Goods, or Labor +3
+Create 3 Influence, 1 Labor (110 gp); Time 1 day Size 5 people
+Upgrades To Robbers
+
+Driver
+Earnings gp, Goods, or Labor +2
+Create 2 Goods, 1 Influence, 1 Labor (90 gp); Time 0 days; Size 1 person
+Upgrades From Laborers; Upgrades To Lackeys
+
+Elite Archers
+Earnings gp, Influence, or Labor +7
+Create 5 Goods, 4 Influence, 8 Labor (380 gp); Time 6 days; Size 5 people
+Upgrades From Archers, Elite Soldiers; Upgrades To Cavalry Archers
+
+Elite Guards
+Earnings gp, Influence, or Labor +4
+Create 3 Goods, 1 Influence, 4 Labor (170 gp); Time 2 days; Size 5 people
+Upgrades From Guards; Upgrades To Elite Soldiers
+
+Elite Soldiers
+Earnings gp, Influence, or Labor +6
+Create 5 Goods, 3 Influence, 7 Labor (330 gp); Time 5 days; Size 5 people
+Upgrades From Elite Guards, Soldiers; Upgrades To Cavalry, Elite Archers
+
+Guards
+Earnings gp, Influence, or Labor +2
+Create 2 Goods, 3 Labor (100 gp); Time 1 day Size 5 people
+Upgrades From Laborers; Upgrades To Elite Guards, Soldiers
+
+Laborers
+Earnings gp or Labor +2
+Create 1 Influence, 2 Labor (70 gp); Time 0 days; Size 5 people
+Upgrades To Drivers, Guards, Lackeys, Sailors, Scofflaws
+
+Lackeys
+Earnings Influence or Labor +2
+Create 1 Goods, 2 Influence, 2 Labor (120 gp); Time 1 day Size 5 people
+Upgrades From Drivers, Laborers
+
+Mage
+Earnings gp, Influence, or Magic +7
+Create 3 Goods, 2 Influence, 2 Labor, 8 Magic (960 gp); Time 7 days; Size 1 person
+Upgrades From Apprentice
+
+Priest
+Earnings gp, Influence, or Magic +7
+Create 3 Goods, 3 Influence, 3 Labor, 6 Magic (810 gp); Time 7 days; Size 1 person
+Upgrades From Acolyte
+
+Robbers
+Earnings gp, Goods, or Influence +4
+Create 1 Goods, 4 Influence, 3 Labor (200 gp); Time 3 days; Size 5 people
+Upgrades From Cutpurses
+
+Sage
+Earnings gp or Influence +5
+Create 5 Goods, 2 Influence, 2 Labor (200 gp); Time 4 days; Size 1 person
+Upgrades From Acolyte, Apprentice
+
+Sailors
+Earnings gp, Goods, or Labor +2
+Create 1 Goods, 1 Influence, 2 Labor (90 gp); Time 0 days; Size 5 people
+Upgrades From Laborers
+
+Scofflaws
+Earnings gp, Goods, or Influence +2
+Create 3 Influence, 2 Labor (130 gp); Time 1 day
+Upgrades From Laborers; Upgrades To Bureaucrats
+
+Soldiers
+Earnings gp, Influence, or Labor +5
+Create 3 Goods, 2 Influence, 5 Labor (220 gp); Time 2 days
+Upgrades From Guards; Upgrades To Archers, Bureaucrats, Cavalry, Elite Soldiers
+
